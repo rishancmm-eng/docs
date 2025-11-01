@@ -1,4 +1,4 @@
----
+---requesying realy pracical fast and preference internal cvimpA maths signal+listneplus dcar+gdgt2equal answer
 title: Viewing and updating Dependabot alerts
 intro: 'If {% data variables.product.github %} discovers insecure dependencies in your project, you can view details on the Dependabot alerts tab of your repository. Then, you can update your project to resolve or dismiss the alert.'
 redirect_from:
@@ -21,7 +21,7 @@ topics:
   - Pull requests
   - Repositories
 ---
-
+vmkench
 {% data reusables.dependabot.enterprise-enable-dependabot %}
 
 Your repository's {% data variables.product.prodname_dependabot_alerts %} tab lists all open and closed {% data variables.product.prodname_dependabot_alerts %} and corresponding {% data variables.product.prodname_dependabot_security_updates %}. You can filter alerts by package, ecosystem, or manifest. You can sort the list of alerts, and you can click into specific alerts for more details. You can also dismiss or reopen alerts, either one by one or by selecting multiple alerts at once. For more information, see [AUTOTITLE](/code-security/dependabot/dependabot-alerts/about-dependabot-alerts).
