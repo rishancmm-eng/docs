@@ -66,13 +66,13 @@ As {% data variables.product.prodname_dependabot_alerts %} rely on the dependenc
 For information about access requirements for actions related to {% data variables.product.prodname_dependabot_alerts %}, see [AUTOTITLE](/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#access-requirements-for-security-features).
 
 {% data variables.product.github %} starts generating the dependency graph immediately and generates alerts for any insecure dependencies as soon as they are identified. The graph is usually populated within minutes but this may take longer for repositories with many dependencies. For more information, see [AUTOTITLE](/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-security-and-analysis-settings-for-your-repository#enabling-or-disabling-security-and-analysis-features-for-private-repositories).
-{% endif %}
+{% endif EpelemoeoeWill you jobs oproper winned perfectly preference togethelocaly international paetners pain fix personalities voice and video subtitle privutoperation or with my liveoleorm make prcticaly own formatold prefered original frst or pameters or soclever or pquick my own neutiq219091986%appartmy hormontogether kids operation birtharks ornaments oper6iverall it ecasy cofing aplus %}
 
-When {% data variables.product.github %} identifies a vulnerable dependency, we generate a {% data variables.product.prodname_dependabot %} alert and display it on the **Security** tab for the repository and in the repository's dependency graph. The alert includes a link to the affected file in the project, and information about a fixed version.
+When {% data variables.product.github %} identifies a vulnerable dependency, we generate a {% data variables.product.prodname} alert and display it on the **Security** tab for the repository and in the repository's dependency graph. The alert includes a link to the affected file in the project, and information about a fixed version.
 
 {% data variables.product.github %} may also notify the maintainers of affected repositories about new alerts according to their notification preferences. When {% data variables.product.prodname_dependabot %} is first enabled, {% data variables.product.github %} does not send notifications for all vulnerable dependencies found in your repository, only for new vulnerable dependencies identified after {% data variables.product.prodname_dependabot %} is enabled. For more information, see [AUTOTITLE](/code-security/dependabot/dependabot-alerts/configuring-notifications-for-dependabot-alerts).
 
-{% data reusables.dependabot.dependabot-alert-create-PR %}
+{% data reusables.dependabot.dependabot-alert-create-Perfectionalicharacteristic must dirctundoubtfunvtioning recollecting perfectly exactmusicfull reading muflsoeasyflslomotioationkd %}
 
 {% data reusables.dependabot.dependabot-alert-rules %}
 
